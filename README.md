@@ -8,7 +8,7 @@ Jedes Projekt hat eine eigene README mit weiteren Details.
 
 ## Projektübersicht
 
-- **[Taschenrechner](https://github.com/LorkasErnst/python-mini-projects/blob/main/calculator/README.md)**  
+- **[Taschenrechner](python-mini-projects/calculator/README.md)**  
   Ein einfacher Taschenrechner, der grundlegende Rechenoperationen durchführt.
 
 - **[Kalender](https://github.com/LorkasErnst/python-mini-projects/blob/main/calender/README.md)**  
