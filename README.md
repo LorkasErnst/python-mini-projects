@@ -11,7 +11,7 @@ Jedes Projekt hat eine eigene README mit weiteren Details.
 - **[Taschenrechner](python-mini-projects/calculator/README.md)**  
   Ein einfacher Taschenrechner, der grundlegende Rechenoperationen durchführt.
 
-- **[Kalender](https://github.com/LorkasErnst/python-mini-projects/blob/main/calender/README.md)**  
+- **[Kalender](python-mini-projects/calender/README.md)**  
   Zeigt einen Monatskalender für ein bestimmtes Jahr an.
 
 - **[Virtuelle Kaffeemaschine](https://github.com/LorkasErnst/python-mini-projects/blob/main/coffee_machine/README.md)**  
