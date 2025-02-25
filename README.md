@@ -8,25 +8,25 @@ Jedes Projekt hat eine eigene README mit weiteren Details.
 
 ## Projektübersicht
 
-- **[Taschenrechner](calculator/README.md)**  
+- **[Taschenrechner](https://github.com/LorkasErnst/python-mini-projects/blob/main/calculator/README.md)**  
   Ein einfacher Taschenrechner, der grundlegende Rechenoperationen durchführt.
 
-- **[Kalender](calender/README.md)**  
+- **[Kalender](https://github.com/LorkasErnst/python-mini-projects/blob/main/calender/README.md)**  
   Zeigt einen Monatskalender für ein bestimmtes Jahr an.
 
-- **[Virtuelle Kaffeemaschine](coffee_machine/README.md)**  
+- **[Virtuelle Kaffeemaschine](https://github.com/LorkasErnst/python-mini-projects/blob/main/coffee_machine/README.md)**  
   Eine einfache Simulation einer Kaffeemaschine mit begrenzten Zutaten.
 
-- **[Passwort-Generator](password_generator/README.md)**  
+- **[Passwort-Generator](https://github.com/LorkasErnst/python-mini-projects/blob/main/password_generator/README.md)**  
   Erstellt sichere Passwörter mit zufälligen Zeichen.
 
-- **[To-Do-Listen-Manager](todo_list/README.md)**  
+- **[To-Do-Listen-Manager](https://github.com/LorkasErnst/python-mini-projects/blob/main/todo_list/README.md)**  
   Eine einfache To-Do-Liste mit Funktionen zum Hinzufügen und Entfernen von Aufgaben.
 
-- **[Tic-Tac-Toe mit KI](tictactoe/README.md)**  
+- **[Tic-Tac-Toe mit KI](https://github.com/LorkasErnst/python-mini-projects/blob/main/tictactoe/README.md)**  
   Ein Konsolenspiel mit einer KI, die den Minimax-Algorithmus nutzt.
 
-- **[Simple Universe Game](simple-universe-game/README.md)**  
+- **[Simple Universe Game](https://github.com/LorkasErnst/python-mini-projects/blob/main/simple-universe-game/README.md)**  
   Erstelle Planeten, Gebäude und Ressourcen in einer einfachen Simulation.
 
 ---
