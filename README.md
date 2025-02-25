@@ -14,7 +14,7 @@ Jedes Projekt hat eine eigene README mit weiteren Details.
 - **[Kalender](python-mini-projects/calender/README.md)**  
   Zeigt einen Monatskalender für ein bestimmtes Jahr an.
 
-- **[Virtuelle Kaffeemaschine](https://github.com/LorkasErnst/python-mini-projects/blob/main/coffee_machine/README.md)**  
+- **[Virtuelle Kaffeemaschine](python-mini-projects/coffee_machine/README.md)**  
   Eine einfache Simulation einer Kaffeemaschine mit begrenzten Zutaten.
 
 - **[Passwort-Generator](https://github.com/LorkasErnst/python-mini-projects/blob/main/password_generator/README.md)**  
