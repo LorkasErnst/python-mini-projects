@@ -17,16 +17,16 @@ Jedes Projekt hat eine eigene README mit weiteren Details.
 - **[Virtuelle Kaffeemaschine](python-mini-projects/coffee_machine/README.md)**  
   Eine einfache Simulation einer Kaffeemaschine mit begrenzten Zutaten.
 
-- **[Passwort-Generator](https://github.com/LorkasErnst/python-mini-projects/blob/main/password_generator/README.md)**  
+- **[Passwort-Generator](python-mini-projects/password_generator/README.md)**  
   Erstellt sichere Passwörter mit zufälligen Zeichen.
 
-- **[To-Do-Listen-Manager](https://github.com/LorkasErnst/python-mini-projects/blob/main/todo_list/README.md)**  
+- **[To-Do-Listen-Manager](python-mini-projects/todo_list/README.md)**  
   Eine einfache To-Do-Liste mit Funktionen zum Hinzufügen und Entfernen von Aufgaben.
 
-- **[Tic-Tac-Toe mit KI](https://github.com/LorkasErnst/python-mini-projects/blob/main/tictactoe/README.md)**  
+- **[Tic-Tac-Toe mit KI](python-mini-projects/tictactoe)**  
   Ein Konsolenspiel mit einer KI, die den Minimax-Algorithmus nutzt.
 
-- **[Simple Universe Game](https://github.com/LorkasErnst/python-mini-projects/blob/main/simple-universe-game/README.md)**  
+- **[Simple Universe Game](python-mini-projects/simple-universe-game/README.md)**  
   Erstelle Planeten, Gebäude und Ressourcen in einer einfachen Simulation.
 
 ---
